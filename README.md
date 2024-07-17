@@ -4,7 +4,7 @@ netDigger is a web scraping application built using .NET 8.0 and C# WPF in Visua
 <center>
 <div>
   <img src="https://github.com/user-attachments/assets/513cba1d-d0a3-4461-9422-c67cd6528ec4" alt="netDigger Logo." style="width: 1000px; height: 200px;" />
-  <p align="center"><strong><em>A Powerful In-Depth Web Scraping Application</em></strong></p>
+  <p align="center"><strong><em>A Powerful In-Depth Web Scraping Application.</em></strong></p>
 </div>
 </center>
 
@@ -12,7 +12,7 @@ netDigger is a web scraping application built using .NET 8.0 and C# WPF in Visua
 
 ## Features
 
-- **Asynchronous Web Scraping**: Efficiently scrape web pages using asynchronous tasks with minimized latency.
+- **Asynchronous Web Scraping**: Efficiently scrape web pages using asynchronous tasks with minimized latency and multi-threading for parallel processing.
 - **Data Collection**: Collects data such as PDFs, CSVs, DOCX, XLS, PPTX, TXT, Images, Videos, JSON, DBSQL, XML, HTML, PHP, JS, Archives, and Miscellaneous files.
 - **Comprehensive JSON, XML, and HTML Parsing**: Utilizes advanced parsing techniques to extract valuable information from JSON, XML, and HTML documents, including finding and processing hidden element data and meta data.
 - **Database Integration**: Organizes scraped URLs into SQLite databases based on their file types.
