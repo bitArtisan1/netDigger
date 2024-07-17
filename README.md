@@ -3,7 +3,7 @@
 netDigger is a web scraping application built using .NET 8.0 and C# WPF in Visual Studio. It collects various types of data and exports them into organized and structured databases. The application features a modern UI design with detailed and comprehensive logging.
 
 <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/8dfa088e-7669-464f-a98e-ebe66419146b" alt="netDigger Logo." style="width: 1000px; height: auto;" />
+  <img src="https://github.com/user-attachments/assets/8dfa088e-7669-464f-a98e-ebe66419146b" alt="netDigger Logo." style="width: 500px; height: auto;" />
   <p><em>Your italic text here</em></p>
 </div>
 
