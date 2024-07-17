@@ -22,6 +22,14 @@ netDigger is a web scraping application built using .NET 8.0 and C# WPF in Visua
 - **Multi OS Support**: Compatible with Windows x64/x86/ARM, Linux and MacOS.
 
 ## Technologies Used
+[![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
 
 - **.NET 8.0**
 - **C#**
