@@ -62,4 +62,7 @@ Select `Debug > Start Debugging` or press `F5`.
 This project is licensed under the __GNU Affero General Public License v3.0__. See the __LICENSE__ file for more details.
 
 ## Support Me
+If you liked this, please consider leaving a star ⭐
 
+If you found this to be useful, make sure to follow me for more 🙃
+![226127913-88de86d3-8437-45b9-a3b6-e746b47f655a](https://github.com/user-attachments/assets/13333030-bd33-4cf6-a2b5-d1dacab12642)
