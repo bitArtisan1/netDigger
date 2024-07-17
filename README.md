@@ -66,7 +66,7 @@ If you liked this, please consider leaving a star ⭐
 
 If you found this to be useful, make sure to follow me for more 🙃
 <center>
-  <div class="row" style="text-align: center;">
+  <div style="text-align: center;">
      <img src="https://github.com/user-attachments/assets/13333030-bd33-4cf6-a2b5-d1dacab12642" alt="octodance"/>
   </div>
 </center>
