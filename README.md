@@ -6,6 +6,10 @@ netDigger is a web scraping application built using .NET 8.0 and C# WPF in Visua
   <img src="https://github.com/user-attachments/assets/8dfa088e-7669-464f-a98e-ebe66419146b" alt="netDigger Logo." style="width: 300px; height: auto;" />
   <p><em>Your italic text here</em></p>
 </div>
+<div style="text-align: center;">
+  <img src="[path/to/your/image.svg](https://github.com/user-attachments/assets/8dfa088e-7669-464f-a98e-ebe66419146b)" alt="Description of the image" style="width: 300px; height: auto;" />
+  <p><em>Your italic text here</em></p>
+</div>
 
 
 
