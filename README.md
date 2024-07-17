@@ -4,7 +4,7 @@ netDigger is a web scraping application built using .NET 8.0 and C# WPF in Visua
 
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/513cba1d-d0a3-4461-9422-c67cd6528ec4" alt="netDigger Logo." style="width: 1000px; height: 300px;" />
-  <p><em>Your italic text here</em></p>
+  <p><em>netDigger, A Powerful In-Depth Web Scraping Application</em></p>
 </div>
 
 
@@ -65,4 +65,7 @@ This project is licensed under the __GNU Affero General Public License v3.0__. S
 If you liked this, please consider leaving a star ⭐
 
 If you found this to be useful, make sure to follow me for more 🙃
-![226127913-88de86d3-8437-45b9-a3b6-e746b47f655a](https://github.com/user-attachments/assets/13333030-bd33-4cf6-a2b5-d1dacab12642)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/13333030-bd33-4cf6-a2b5-d1dacab12642" alt="octodance"/>
+</div>
+
