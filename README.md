@@ -70,4 +70,12 @@ If you found this to be useful, make sure to follow me for more 🙃
   <img src="https://github.com/user-attachments/assets/f2860729-7888-4728-85d2-35e007f5b817" alt="bongocat" style="width: 300px; height 300px;"/>
 </div>
 
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/user-attachments/assets/13333030-bd33-4cf6-a2b5-d1dacab12642" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/user-attachments/assets/f2860729-7888-4728-85d2-35e007f5b817" alt="Forest" style="width:100%">
+  </div>
+</div>
 
