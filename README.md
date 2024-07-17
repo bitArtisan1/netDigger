@@ -66,10 +66,13 @@ If you liked this, please consider leaving a star ⭐
 
 If you found this to be useful, make sure to follow me for more 🙃
 <center>
-<div style="text-align: center;">
-  <p align="center">
-   <img src="https://github.com/user-attachments/assets/13333030-bd33-4cf6-a2b5-d1dacab12642" alt="octodance" style="margin-right: 10px;"/>
-  </p>
+<div class="row" style="text-align: center;">
+  <div class="column">
+   <img src="https://github.com/user-attachments/assets/13333030-bd33-4cf6-a2b5-d1dacab12642" alt="octodance"/>
+  </div>
+  <div class="column">
+   <img src="https://github.com/user-attachments/assets/f2860729-7888-4728-85d2-35e007f5b817" alt="octodance" style="width:300px height:300px;"/>
+  </div>
 </div>
 </center>
 
