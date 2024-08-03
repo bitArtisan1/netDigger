@@ -1,3 +1,10 @@
+<div align="right">
+    <a href="https://www.buymeacoffee.com/bitArtisan">
+        <img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee Pls!" />
+    </a>
+</div>
+
+
 # netDigger
 
 netDigger is a web scraping application built using .NET 8.0 and C# WPF in Visual Studio. It collects various types of data and exports them into organized and structured databases. The application features a modern UI design with detailed and comprehensive logging.
@@ -67,6 +74,8 @@ This project is licensed under the __GNU Affero General Public License v3.0__. S
 If you liked this, please consider leaving a star ⭐
 
 If you found this to be useful, make sure to follow me for more 🙃
+
+<a href="https://www.buymeacoffee.com/bitArtisan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bitArtisan&button_colour=CBC3E3&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 <center>
 <div style="text-align: center;">
   <p align="center">
